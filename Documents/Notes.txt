@@ -1,0 +1,7 @@
+- Users may log in multiple times without restriction.
+
+- However, after signing up, the application must be restarted due to automatic login to the main website via WebView.
+
+- Duplicate usernames are not allowed.
+
+- Each Gmail account is allowed to register only one account.
