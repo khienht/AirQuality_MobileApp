@@ -76,4 +76,4 @@ You can also view the project presentation via this [link](https://github.com/kh
 
 This project was developed for academic purposes and is not intended for commercial use.
 <!-- Footer -->
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;`Copyright © 2025 - Hồ Thị Khánh Hiền`
+`Copyright © 2025 - Hồ Thị Khánh Hiền`
