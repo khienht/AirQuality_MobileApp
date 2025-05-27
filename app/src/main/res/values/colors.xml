@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    //bg
+    <color name="lightgreen">#93B9B5</color>
+    <color name="greenlightmax">#FCFCFC</color>
+    <color name="green">#FFADD8BD</color>
+    <color name="greenlv2">#325B57</color>
+    <color name="greenlv3">#467970</color>
+    <color name="yellowlight">#FFFFF2</color>
+    <color name="yellowchart">#FFFEE8</color>
+    <color name="my_light_primary">#D7FFDC</color>
+    <color name="dark_greenlv1">#1B2F2E</color>
+    <color name="green1">#FFE7EFDE</color>
+    <color name="bg1">#1D5632</color>
+
+
+    <color name="text">#757575</color>
+    <color name="red">#FF0000</color>
+    <color name="lime">#00ff00</color>
+    <color name="yellow">#ffff00</color>
+    <color name="purple">#800080</color>
+    <color name="darker_grey">#A9a9a9</color>
+    <color name="blue">#FF00E5FF</color>
+    <color name="pink">#FFFA7272</color>
+
+</resources>
